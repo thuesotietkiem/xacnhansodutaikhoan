@@ -3,7 +3,7 @@
 # Xác nhận số dư tài khoản là một loại văn bản quan trọng được ngân hàng cung cấp, nhằm xác minh số tiền hiện có trong tài khoản thanh toán hoặc tài khoản tiết kiệm của khách hàng tại thời điểm yêu cầu. Đây là tài liệu cần thiết trong nhiều tình huống như xin visa, chứng minh tài chính, vay vốn, hoặc tham gia đấu thầu, hợp tác kinh doanh.
 
 # 
-
+Xem thêm: https://dichvutaichinh.vn/xac-nhan-tai-khoan-doanh-nghiep.html
 # Xác nhận số dư tài khoản là gì?
 
 # Là giấy tờ thể hiện chính xác thông tin về số dư hiện tại của một tài khoản ngân hàng, thường bao gồm:
